@@ -10,5 +10,5 @@ Tool that uses shazamAPI to edit metadatas
 Put your audio files in Sources folder and run 'python3 shazamapi.py. 
 Metadatas will be changed on existing audio files, not creating duplicates.
 
-Features:
+**Features:**
 Automatically scraps Shazam for Title, Artist and HD Cover art.
