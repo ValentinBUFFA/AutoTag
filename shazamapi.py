@@ -52,6 +52,8 @@ def GetInfo(file, start, duration, try_nb=0):
 
 
 for file in os.listdir("Sources/"):
+    if os.path.splitext(file)[1] == '.txt':
+        continue
     print('\n')
     infos = GetInfo(os.path.join("Sources", file), 0, 3500)
     # If retries cap reached go to next song and note the error in console
