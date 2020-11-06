@@ -2,9 +2,9 @@
 Tool that uses shazamAPI to edit metadatas
 
 Dependencies:
-'requests'
-'music_tag'
-'pydub'
+`requests`
+`music_tag`
+`pydub`
 
 Usage:
 Put your audio files in Sources folder and run 'python3 shazamapi.py. 
