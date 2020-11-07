@@ -2,7 +2,9 @@
 Tool that uses shazamAPI to edit metadatas
 
 **autotag_core**
+
 Executing this file won't do anything, it just contains all base functions.
+
 *Dependencies:*
 `requests`
 `music_tag`
