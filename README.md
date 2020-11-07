@@ -20,7 +20,7 @@ Metadatas will be changed on existing audio files, not creating duplicates.
 
 **autotag_dl**
 
-*Aditionnal dependencies:* `pyperclip` `youtube_dl` `time`
+*Aditionnal dependencies:* `pyperclip` `youtube_dl`
 
 *Usage:*
 Start the program using `python3 autotag_dl.py` and Ctrl+C youtube links to automatically download and correct metadata on it.
