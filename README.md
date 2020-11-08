@@ -24,4 +24,4 @@ Metadatas will be changed on existing audio files, not creating duplicates.
 
 *Usage:*
 Start the program using `python3 autotag_dl.py` and Ctrl+C youtube links to automatically download and correct metadata on it.
-Note that to stop the process you can Ctrl+C `exit`.
+Note that to stop the process you can Ctrl+C `exit`. Now supports playlists links!
