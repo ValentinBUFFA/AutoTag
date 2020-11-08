@@ -49,6 +49,7 @@ ydl = youtube_dl.YoutubeDL(ydl_opts)
 ydl.add_post_processor(AutotagPP(None))
 pyperclip.copy("")
 clipboard = ""
+print("Process running, CTRL+C a youtube link to start downloading song!")
 while clipboard != "exit":
     clipboard = pyperclip.paste()
     if 'youtube.com' in clipboard:
