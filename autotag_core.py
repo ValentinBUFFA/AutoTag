@@ -8,7 +8,7 @@ from pydub import AudioSegment
 
 url = "https://rapidapi.p.rapidapi.com/songs/detect"
 headers = {
-    'x-rapidapi-key': '3e7ab7e94emshca396c25538373fp14c862jsna3dd4addf531',
+    'x-rapidapi-key': 'API-KEY',
     'content-type': 'text/plain',
     'useQueryString': 'true',
     'x-rapidapi-host': 'shazam.p.rapidapi.com'
